@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cladzen
+- 👋 Hi, I’m @stereogon
 - 👀 I’m interested in web development using django, competitive programming and machine learning
 - 🌱 I’m currently learning django, data structures and algorithms
 - 💞️ I’m looking to collaborate on django projects
