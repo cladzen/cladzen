@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning django, data structures and algorithms
 - 💞️ I’m looking to collaborate on django projects
 
-![Chandan's github stats](https://github-readme-stats.vercel.app/api?username=cladzen)
+![Chandan's github stats](https://github-readme-stats.vercel.app/api?username=stereogon)
 <!---
-cladzen/cladzen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+stereogon/stereogon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
