@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @stereogon
-- 👀 I’m interested in web development using django, competitive programming and machine learning
-- 🌱 I’m currently learning django, data structures and algorithms
-- 💞️ I’m looking to collaborate on django projects
-
 ![Chandan's github stats](https://github-readme-stats.vercel.app/api?username=stereogon)
 <!---
 stereogon/stereogon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
